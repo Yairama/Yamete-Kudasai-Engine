@@ -37,6 +37,7 @@ In the *blocks_from_csv.rs* file is the csv format.
         .unwrap();
 
 This is:
-<video src='https://user-images.githubusercontent.com/45445692/230262057-b609d2af-b562-4926-be97-0fd0747ee472.mp4' width=720></video>
+
+https://user-images.githubusercontent.com/45445692/230262057-b609d2af-b562-4926-be97-0fd0747ee472.mp4
 
 
